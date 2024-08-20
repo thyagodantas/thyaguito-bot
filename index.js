@@ -1,5 +1,6 @@
 const express = require("express");
 const path = require("path");
+const stringSimilarity = require("string-similarity");
 const trainingData = require("./trainingData.js");
 const app = express();
 
@@ -9,14 +10,18 @@ app.use(express.json());
 function getResponse(userMessage) {
   let response =
     "Não entendi o que você disse, mas estou aqui para te lembrar que o seu amor te ama muito.";
+  let bestMatch = { rating: 0 };
 
   trainingData.forEach((data) => {
-    data.patterns.forEach((pattern) => {
-      if (userMessage.toLowerCase().includes(pattern)) {
-        const randomIndex = Math.floor(Math.random() * data.responses.length);
-        response = data.responses[randomIndex];
-      }
-    });
+    const match = stringSimilarity.findBestMatch(
+      userMessage.toLowerCase(),
+      data.patterns
+    );
+    if (match.bestMatch.rating > bestMatch.rating) {
+      bestMatch = match.bestMatch;
+      const randomIndex = Math.floor(Math.random() * data.responses.length);
+      response = data.responses[randomIndex];
+    }
   });
 
   return response;

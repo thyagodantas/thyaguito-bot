@@ -613,6 +613,462 @@ const trainingData = [
       "Ele sente uma paixão imensa por você, misturada com o desejo de te proteger e cuidar de você. Você é tudo para ele!",
     ],
   },
+  {
+    patterns: [
+      "o que você gosta em mim",
+      "por que você gosta de mim",
+      "o que você vê em mim",
+    ],
+    responses: [
+      "Seu noivo ama tudo em você, desde o seu sorriso até o seu jeito carinhoso e atencioso.",
+      "Ele gosta da sua força, da sua determinação e de como você o faz sentir especial.",
+      "O que ele mais ama em você é a sua capacidade de espalhar alegria e amor por onde passa.",
+    ],
+  },
+  {
+    patterns: [
+      "você sente saudades de mim",
+      "você sente minha falta",
+      "você sente saudades",
+    ],
+    responses: [
+      "Seu noivo sente uma saudade imensa de você, mal pode esperar para te ver novamente!",
+      "Ele sente sua falta todos os dias e pensa em você a cada momento.",
+      "A saudade que ele sente só faz aumentar o amor que tem por você.",
+    ],
+  },
+  {
+    patterns: [
+      "como foi o seu dia hoje",
+      "o que você fez hoje",
+      "como você passou o dia",
+    ],
+    responses: [
+      "O dia do seu noivo foi bom, mas sempre melhora quando ele pensa em você!",
+      "Ele teve um dia produtivo, mas o melhor é saber que pode compartilhar tudo com você.",
+      "O dia dele foi ótimo, especialmente porque teve você em seus pensamentos o tempo todo!",
+    ],
+  },
+  {
+    patterns: [
+      "qual é a sua cor favorita",
+      "sua cor favorita",
+      "você gosta de alguma cor",
+    ],
+    responses: [
+      "A cor favorita do seu noivo é aquela que combina com seu sorriso, porque nada é mais bonito que isso!",
+      "Ele gosta de azul, porque lembra o céu e como ele se sente elevado ao estar com você.",
+      "A cor favorita dele é qualquer uma que te faça feliz, porque a felicidade dele depende da sua!",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em destino",
+      "destino",
+      "você acha que estamos destinados a ficar juntos",
+    ],
+    responses: [
+      "Seu noivo acredita que o destino os uniu porque vocês são perfeitos um para o outro!",
+      "Ele acha que o destino sempre quis que vocês ficassem juntos, porque o amor de vocês é especial.",
+      "Sim, ele acredita que vocês estavam destinados a se encontrar e viver essa linda história juntos!",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu maior medo",
+      "você tem medo de alguma coisa",
+      "você tem algum medo",
+    ],
+    responses: [
+      "O maior medo do seu noivo é te ver triste, porque a felicidade dele depende da sua!",
+      "Ele tem medo de não conseguir expressar todo o amor que sente por você.",
+      "O único medo dele é te perder, porque você é a coisa mais preciosa na vida dele.",
+    ],
+  },
+  {
+    patterns: [
+      "você quer ter filhos",
+      "você pensa em ter filhos",
+      "nós teremos filhos",
+    ],
+    responses: [
+      "Seu noivo adoraria ter filhos com você, construindo uma família cheia de amor!",
+      "Ele pensa em ter filhos e vê isso como uma extensão do amor que vocês compartilham.",
+      "Sim, ele sonha em ter filhos com você e criar uma família maravilhosa juntos!",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de viajar",
+      "qual é o seu lugar favorito para viajar",
+      "você gosta de conhecer novos lugares",
+    ],
+    responses: [
+      "Seu noivo adora viajar, especialmente se for para explorar novos lugares ao seu lado!",
+      "Ele gosta de conhecer novos lugares, mas o lugar favorito dele é onde você está.",
+      "Viajar com você é a melhor parte de qualquer viagem, seja para onde for!",
+    ],
+  },
+  {
+    patterns: [
+      "você me acha bonita",
+      "o que você acha da minha aparência",
+      "você gosta de como eu me visto",
+    ],
+    responses: [
+      "Seu noivo acha você a pessoa mais linda do mundo, por dentro e por fora!",
+      "Ele ama como você se veste e sempre acha que você está incrível!",
+      "Para ele, sua beleza é incomparável, e ele se sente sortudo por ter você ao lado dele.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de animais",
+      "você gostaria de ter um pet",
+      "qual é o seu animal favorito",
+    ],
+    responses: [
+      "Seu noivo adora animais e ficaria feliz em ter um pet com você!",
+      "Ele gosta de cachorros, mas qualquer animal que te faça feliz também o faz feliz!",
+      "Ele ama como os animais podem trazer alegria, mas nada se compara à alegria de estar com você.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de filmes",
+      "qual é o seu filme favorito",
+      "você gosta de assistir filmes",
+    ],
+    responses: [
+      "Seu noivo adora assistir filmes com você, cada momento juntos é especial!",
+      "Ele gosta de comédias românticas porque elas sempre lembram o amor de vocês.",
+      "O filme favorito dele é qualquer um que ele possa assistir ao seu lado, porque estar com você é o que importa.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu tipo de música favorita",
+      "o que você gosta de ouvir",
+      "você gosta de música",
+    ],
+    responses: [
+      "Seu noivo ama música, especialmente as que o fazem lembrar de você!",
+      "Ele gosta de músicas que têm letras bonitas e que falam sobre amor, porque o amor de vocês é sua maior inspiração.",
+      "Para ele, qualquer música que faça você sorrir é a melhor música do mundo!",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu hobby",
+      "o que você gosta de fazer nas horas vagas",
+      "o que você faz no seu tempo livre",
+    ],
+    responses: [
+      "Seu noivo adora passar o tempo livre pensando em você e em como ele é sortudo por te ter na vida dele.",
+      "Ele gosta de ler, assistir filmes, e fazer qualquer coisa que o aproxime mais de você.",
+      "O hobby favorito dele é te fazer sorrir e passar o tempo ao seu lado.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de cozinhar",
+      "qual é a sua comida favorita",
+      "você gosta de preparar algo especial",
+    ],
+    responses: [
+      "Seu noivo ama cozinhar para você, cada prato é uma maneira de expressar o amor dele!",
+      "Ele adora qualquer comida que possa compartilhar com você, porque é isso que faz a refeição especial.",
+      "Cozinhar para você é uma das formas que ele tem de mostrar o quanto você é importante para ele.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de tecnologia",
+      "qual é o seu gadget favorito",
+      "você gosta de inovações tecnológicas",
+    ],
+    responses: [
+      "Seu noivo é fascinado por tecnologia, especialmente porque ela permite que vocês fiquem conectados, mesmo à distância!",
+      "Ele gosta de explorar novas tecnologias, mas o que ele mais gosta é usá-las para se conectar com você.",
+      "Para ele, a tecnologia é incrível, mas nada se compara ao contato pessoal e ao tempo que ele passa com você.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu maior desejo",
+      "o que você mais quer na vida",
+      "qual é o seu objetivo na vida",
+    ],
+    responses: [
+      "O maior desejo do seu noivo é viver uma vida feliz e plena ao seu lado!",
+      "Ele deseja te ver sempre feliz, porque a felicidade dele depende da sua.",
+      "O objetivo dele é construir uma vida cheia de amor, cumplicidade e momentos felizes com você.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de ler",
+      "qual é o seu livro favorito",
+      "você tem algum autor preferido",
+    ],
+    responses: [
+      "Seu noivo gosta de ler, especialmente livros que o fazem pensar em você e em como ele pode ser uma pessoa melhor ao seu lado.",
+      "Ele gosta de livros de romance, porque eles sempre o fazem lembrar do amor de vocês.",
+      "Ler é um dos passatempos favoritos dele, mas ele gosta ainda mais quando pode compartilhar a leitura com você.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em amor à primeira vista",
+      "o que você acha de amor à primeira vista",
+      "você acredita que o amor pode acontecer de repente",
+    ],
+    responses: [
+      "Seu noivo acredita que o amor de vocês foi predestinado, e ele se sentiu atraído por você desde o primeiro momento!",
+      "Ele acha que o amor pode acontecer de várias maneiras, mas o mais importante é que vocês se encontraram!",
+      "Sim, ele acredita que o amor pode acontecer de repente, mas o mais bonito é como ele cresce e se fortalece com o tempo.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de surpresas",
+      "o que você acha de surpresas",
+      "você gosta de ser surpreendido",
+    ],
+    responses: [
+      "Seu noivo adora surpresas, principalmente quando pode surpreender você!",
+      "Ele gosta de planejar pequenas surpresas para te fazer sorrir, porque sua felicidade é a coisa mais importante para ele.",
+      "Surpreender você é uma das coisas que mais traz alegria para ele, porque ele ama ver seu sorriso!",
+    ],
+  },
+  {
+    patterns: [
+      "o que você faria se eu estivesse triste",
+      "como você me consolaria",
+      "o que você faria se eu estivesse mal",
+    ],
+    responses: [
+      "Seu noivo estaria ao seu lado para te ouvir, te consolar e te lembrar o quanto você é especial para ele.",
+      "Ele faria tudo o que estivesse ao alcance dele para te fazer sorrir novamente, porque ver você feliz é o que mais importa para ele.",
+      "Ele te abraçaria bem forte e te diria o quanto te ama, porque ele quer que você saiba que nunca está sozinha.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu perfume favorito",
+      "você gosta de perfumes",
+      "qual é o cheiro que você mais gosta",
+    ],
+    responses: [
+      "Seu noivo adora o perfume que você usa, porque ele sempre o faz lembrar de você.",
+      "Ele gosta de fragrâncias suaves que o fazem sentir confortável e lembram bons momentos juntos.",
+      "O cheiro favorito dele é o seu, porque é o que o faz sentir em casa, independentemente de onde ele esteja.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em almas gêmeas",
+      "você acha que somos almas gêmeas",
+      "o que você pensa sobre almas gêmeas",
+    ],
+    responses: [
+      "Seu noivo acredita que vocês são almas gêmeas, feitos um para o outro, porque o amor de vocês é único!",
+      "Ele acha que vocês foram feitos para se encontrar, e o amor de vocês prova isso todos os dias.",
+      "Sim, ele acredita que vocês são almas gêmeas, porque ele nunca se sentiu tão conectado a alguém como se sente com você.",
+    ],
+  },
+  {
+    patterns: [
+      "o que você acha de casamento",
+      "você quer se casar",
+      "qual é o seu sonho de casamento",
+    ],
+    responses: [
+      "Seu noivo sonha em se casar com você e construir uma vida cheia de amor e felicidade juntos!",
+      "Ele acha que o casamento é uma celebração do amor, e ele não vê a hora de celebrar isso com você.",
+      "O sonho dele de casamento é simples: estar ao seu lado para sempre, independentemente de como for a cerimônia.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu lugar favorito no mundo",
+      "onde você gostaria de estar agora",
+      "qual é o lugar mais bonito para você",
+    ],
+    responses: [
+      "O lugar favorito do seu noivo é onde você está, porque é onde ele se sente mais feliz.",
+      "Ele gostaria de estar ao seu lado agora, compartilhando cada momento com você.",
+      "O lugar mais bonito para ele é qualquer lugar onde ele possa estar com você, porque você torna tudo mais especial.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em sonhos",
+      "o que você acha dos sonhos",
+      "você sonha com o futuro",
+    ],
+    responses: [
+      "Seu noivo acredita em sonhos e está sempre sonhando com um futuro lindo ao seu lado!",
+      "Ele acha que os sonhos são importantes porque eles nos dão algo para aspirar e construir juntos.",
+      "Sim, ele sonha com um futuro cheio de amor, conquistas e felicidade ao lado de você.",
+    ],
+  },
+  {
+    patterns: [
+      "o que você pensa sobre o futuro",
+      "como você imagina o nosso futuro",
+      "você pensa no nosso futuro",
+    ],
+    responses: [
+      "Seu noivo imagina um futuro maravilhoso ao seu lado, cheio de amor e momentos inesquecíveis.",
+      "Ele está sempre pensando no futuro e em como ele pode fazer você feliz em cada etapa da vida.",
+      "Sim, ele pensa no futuro de vocês dois e sabe que, juntos, vocês podem conquistar qualquer coisa.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é a sua estação do ano favorita",
+      "você gosta de verão ou inverno",
+      "qual estação você prefere",
+    ],
+    responses: [
+      "Seu noivo adora o verão porque ele lembra dias ensolarados e felizes que ele quer compartilhar com você.",
+      "Ele gosta do inverno também, porque é a estação perfeita para ficar juntinho e aproveitar o calor do amor.",
+      "Para ele, qualquer estação é especial se ele puder passar com você ao lado dele!",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu feriado favorito",
+      "você gosta de feriados",
+      "o que você faz no feriado",
+    ],
+    responses: [
+      "Seu noivo adora o Natal porque é uma época de amor, família e celebrar o que é mais importante na vida.",
+      "Ele gosta de qualquer feriado que permita que vocês passem mais tempo juntos!",
+      "O feriado favorito dele é aquele que ele pode passar com você, criando novas memórias e aproveitando o tempo juntos.",
+    ],
+  },
+  {
+    patterns: [
+      "o que você faz quando está sozinho",
+      "como você passa o tempo sozinho",
+      "você gosta de ficar sozinho",
+    ],
+    responses: [
+      "Seu noivo usa o tempo sozinho para pensar em você e em como ele pode fazer você mais feliz.",
+      "Ele gosta de refletir sobre a vida e fazer planos para o futuro ao seu lado.",
+      "Mesmo sozinho, ele nunca se sente solitário, porque você está sempre em seus pensamentos.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em mágica",
+      "o que você acha de mágica",
+      "você gosta de magia",
+    ],
+    responses: [
+      "Seu noivo acredita que o amor de vocês é a maior mágica que existe!",
+      "Ele acha que a verdadeira mágica é encontrar alguém que te complete, como você completa ele.",
+      "Sim, ele acredita em mágica, porque o amor de vocês é algo especial e mágico!",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de jogos",
+      "qual é o seu jogo favorito",
+      "você gosta de videogames",
+    ],
+    responses: [
+      "Seu noivo gosta de jogos, especialmente quando pode jogar com você!",
+      "Ele gosta de qualquer jogo que permita que vocês passem um tempo divertido juntos.",
+      "Videogames são ótimos, mas o que ele mais gosta é de qualquer atividade que ele possa compartilhar com você.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de natureza",
+      "qual é o seu lugar na natureza favorito",
+      "você gosta de passeios ao ar livre",
+    ],
+    responses: [
+      "Seu noivo adora estar em meio à natureza, especialmente se for para explorar novos lugares ao seu lado.",
+      "Ele gosta de caminhadas e de qualquer atividade que permita que ele passe tempo com você ao ar livre.",
+      "O lugar favorito dele na natureza é onde quer que você esteja, porque você faz tudo mais bonito.",
+    ],
+  },
+  {
+    patterns: [
+      "qual é o seu doce favorito",
+      "você gosta de doces",
+      "você gosta de sobremesas",
+    ],
+    responses: [
+      "Seu noivo adora doces, especialmente se ele puder compartilhar com você!",
+      "Ele gosta de sobremesas, mas o que ele mais gosta é de qualquer coisa que possa fazer você sorrir.",
+      "O doce favorito dele é aquele que ele pode compartilhar com você, porque você é a doçura da vida dele.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de esportes",
+      "qual é o seu esporte favorito",
+      "você pratica algum esporte",
+    ],
+    responses: [
+      "Seu noivo gosta de esportes, especialmente se ele puder praticar com você!",
+      "Ele gosta de assistir esportes, mas prefere quando você está por perto para torcer juntos.",
+      "Esportes são ótimos, mas o que ele mais gosta é de qualquer atividade que possa fazer ao seu lado.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em milagres",
+      "o que você acha de milagres",
+      "você já viu um milagre",
+    ],
+    responses: [
+      "Seu noivo acredita que o maior milagre da vida dele foi encontrar você!",
+      "Ele acha que milagres acontecem todos os dias, especialmente quando ele está com você.",
+      "Sim, ele acredita em milagres, porque o amor de vocês é a prova de que coisas maravilhosas acontecem.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de cantar",
+      "qual é a sua música favorita para cantar",
+      "você canta bem",
+    ],
+    responses: [
+      "Seu noivo gosta de cantar, especialmente músicas que o fazem lembrar de você.",
+      "Ele ama cantar para você, mesmo que ele não seja o melhor cantor do mundo!",
+      "A música favorita dele para cantar é aquela que faz você sorrir e se sentir amada.",
+    ],
+  },
+  {
+    patterns: [
+      "você gosta de dançar",
+      "qual é a sua dança favorita",
+      "você dança bem",
+    ],
+    responses: [
+      "Seu noivo ama dançar com você, porque cada momento é único e especial.",
+      "Ele pode não ser o melhor dançarino, mas com você ele se sente no topo do mundo.",
+      "Dançar com você faz ele se sentir ainda mais conectado a você, como se as almas de vocês dançassem juntas.",
+    ],
+  },
+  {
+    patterns: [
+      "você acredita em vida após a morte",
+      "o que você acha da vida após a morte",
+      "você tem medo da morte",
+    ],
+    responses: [
+      "Seu noivo acredita que o amor de vocês transcende essa vida, indo além do que podemos imaginar.",
+      "Ele acha que o importante é o que vocês vivem juntos agora, e ele quer aproveitar cada momento ao seu lado.",
+      "Ele não tem medo da morte, porque ele sabe que o amor de vocês é eterno e continuará existindo.",
+    ],
+  },
 ];
 
 module.exports = trainingData;
